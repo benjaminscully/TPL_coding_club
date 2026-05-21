@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-05-21T00:11:15.541500Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-05-21T00:11:05.418137Z",
+      "mimetype": null,
+      "name": "Coding_teens.ipynb",
+      "path": "Coding_teens.ipynb",
+      "size": 709676,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-05-21T00:11:15.541399Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-05-21T00:11:15.541399Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
